@@ -38,7 +38,7 @@ const Footer = ({}: FooterProps) => {
 	];
 
 	return (
-		<footer className=''>
+		<footer className='mx-auto flex w-full max-w-7xl flex-col gap-3 px-5 py-2'>
 			<div className='hidden h-72 w-full items-center md:flex'>
 				<div className='flex h-3/5 w-full justify-between gap-4 px-5'>
 					<div className='flex h-full flex-col justify-between gap-4'>

@@ -19,7 +19,7 @@ const FeaturedLesson = ({
 	return (
 		<div
 			className={cn(
-				'wgrid-flow-row relative grid h-3/6 w-full grid-cols-2 grid-rows-2 rounded-3xl px-7 py-7 text-center',
+				'grid-flow-row relative grid h-3/6 w-full grid-cols-2 grid-rows-2 rounded-3xl px-7 py-7 text-center',
 				className
 			)}
 		>
